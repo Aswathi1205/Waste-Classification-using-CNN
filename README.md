@@ -1,4 +1,4 @@
-# Enter-Week-1
+# Week-1
 This project focuses on visualizing the distribution of labeled data for an image classification task. It uses Python libraries like NumPy, Pandas, Matplotlib, and OpenCV to load, process, and analyze the dataset. The data is then represented using clear and informative visualizations, including bar charts and pie charts, to understand the label distribution.
 
 Click here to access the dataset :"https://www.kaggle.com/datasets/techsash/waste-classification-data/data"
